@@ -137,4 +137,3 @@ cd ../tf-part-1 && terraform destroy -auto-approve
 ```
 
 ---
-
