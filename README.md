@@ -138,5 +138,3 @@ cd ../tf-part-1 && terraform destroy -auto-approve
 
 ---
 
-## 📝 License
-Distributed under the MIT License. See `LICENSE` for more information.
